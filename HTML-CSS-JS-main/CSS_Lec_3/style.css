@@ -1,0 +1,17 @@
+span{
+    border: 2px solid black;
+    display: block;
+    
+}
+
+div{
+    border:  2px solid black;
+    display: inline;
+}
+
+#special{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+}

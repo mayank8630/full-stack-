@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    
+}
+
+.group1{
+    color: brown;
+    background-color: burlywood;
+}
+
+#special{
+    color: blueviolet;
+    background-color: aqua;
+}
+
+*{
+    border:  solid black;
+}
+
+h1:hover{
+    border: solid red;
+    background-color: bisque;
+}
+
+h2:active{
+    color: aquamarine;
+}
+button:focus{
+    color: brown;
+    background-color: yellow;
+}
+
+#container>p:nth-of-type(3n){
+    color: rgb(35, 7, 118);
+    background-color: darkorange;
+
+}
